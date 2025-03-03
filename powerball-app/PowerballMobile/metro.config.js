@@ -1,7 +1,17 @@
-const { getDefaultConfig } = require('expo/metro-config');
+const { getDefaultConfig } = require("metro-config");
 
-module.exports = (() => {
-  const config = getDefaultConfig(__dirname);
-  config.resolver.assetExts.push('json'); // Allow JSON files to be recognized
-  return config;
+module.exports = (async () => {
+  const {
+    resolver: { sourceExts, assetExts },
+  } = await getDefaultConfig();
+
+  return {
+    transformer: {
+      assetPlugins: ["metro-transformer"],
+    },
+    resolver: {
+      assetExts: assetExts.filter((ext) => ext !== "svg"),
+      sourceExts: [...sourceExts, "svg"],
+    },
+  };
 })();
