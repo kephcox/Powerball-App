@@ -11,6 +11,14 @@
   },
   "dependencies": {
     "@react-native-picker/picker": "^2.11.0",
+    "metro-config": "^0.81.3",
+    "metro-core": "^0.81.3",
+    "metro-react-native-babel-transformer": "^0.77.0",
+    "metro-resolver": "^0.81.3",
+    "metro-runtime": "^0.81.3",
+    "metro-source-map": "^0.81.3",
+    "metro-symbolicate": "^0.81.3",
+    "metro-transform-worker": "^0.81.3",
     "react": "19.0.0",
     "react-native": "^0.78.0"
   },
