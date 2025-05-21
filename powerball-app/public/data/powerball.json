@@ -12,7 +12,7 @@
       "description" : "Go to http://on.ny.gov/1GpWiHD on the New York Lottery website for past Powerball results and payouts.",
       "diciBackend" : false,
       "displayType" : "table",
-      "downloadCount" : 35130429,
+      "downloadCount" : 35135886,
       "hideFromCatalog" : false,
       "hideFromDataJson" : false,
       "locked" : false,
@@ -24,12 +24,12 @@
       "publicationDate" : 1619710771,
       "publicationGroup" : 708088,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1746698479,
+      "rowsUpdatedAt" : 1747735268,
       "rowsUpdatedBy" : "xzik-pf59",
       "tableId" : 18267526,
       "totalTimesRated" : 0,
-      "viewCount" : 479362,
-      "viewLastModified" : 1746698478,
+      "viewCount" : 480284,
+      "viewLastModified" : 1747735268,
       "viewType" : "tabular",
       "approvals" : [ {
         "reviewedAt" : 1563703321,
@@ -140,8 +140,8 @@
         "tableColumnId" : 8275908,
         "width" : 141,
         "cachedContents" : {
-          "non_null" : "1781",
-          "largest" : "2025-05-07T00:00:00.000",
+          "non_null" : "1786",
+          "largest" : "2025-05-19T00:00:00.000",
           "null" : "0",
           "top" : [ {
             "item" : "2021-12-15T00:00:00.000",
@@ -205,8 +205,8 @@
             "count" : "1"
           } ],
           "smallest" : "2010-02-03T00:00:00.000",
-          "count" : "1781",
-          "cardinality" : "1781"
+          "count" : "1786",
+          "cardinality" : "1786"
         },
         "format" : {
           "view" : "date",
@@ -223,7 +223,7 @@
         "tableColumnId" : 8275909,
         "width" : 186,
         "cachedContents" : {
-          "non_null" : "1781",
+          "non_null" : "1786",
           "largest" : "52 58 59 64 66 09",
           "null" : "0",
           "top" : [ {
@@ -288,8 +288,8 @@
             "count" : "1"
           } ],
           "smallest" : "01 02 03 07 39 25",
-          "count" : "1781",
-          "cardinality" : "1781"
+          "count" : "1786",
+          "cardinality" : "1786"
         },
         "format" : {
           "align" : "center"
@@ -305,15 +305,15 @@
         "tableColumnId" : 8275910,
         "width" : 136,
         "cachedContents" : {
-          "non_null" : "1571",
+          "non_null" : "1576",
           "largest" : "10",
           "null" : "210",
           "top" : [ {
             "item" : "2",
-            "count" : "815"
+            "count" : "818"
           }, {
             "item" : "3",
-            "count" : "486"
+            "count" : "488"
           }, {
             "item" : "4",
             "count" : "147"
@@ -325,7 +325,7 @@
             "count" : "17"
           } ],
           "smallest" : "2",
-          "count" : "1781",
+          "count" : "1786",
           "cardinality" : "5"
         },
         "format" : {
@@ -2207,5 +2207,10 @@
 , [ "row-536r-nzei-jbdx", "00000000-0000-0000-8BA7-4E67E8FA727E", 0, 1746352868, null, 1746352868, null, "{ }", "2025-05-03T00:00:00", "10 21 23 35 65 24", "2" ]
 , [ "row-mu26_tm3c~6frp", "00000000-0000-0000-951B-01825AB7761B", 0, 1746525680, null, 1746525680, null, "{ }", "2025-05-05T00:00:00", "16 34 40 45 66 19", "2" ]
 , [ "row-m7dd.e3tx~e3fr", "00000000-0000-0000-0603-46FE1FFC9B9E", 0, 1746698479, null, 1746698479, null, "{ }", "2025-05-07T00:00:00", "14 15 30 40 59 20", "3" ]
+, [ "row-vbj2-rxud-f7sd", "00000000-0000-0000-9453-D500F074D6CA", 0, 1746957674, null, 1746957674, null, "{ }", "2025-05-10T00:00:00", "05 20 28 39 42 13", "2" ]
+, [ "row-x8b9.iypv_4bfx", "00000000-0000-0000-193E-B63B5904ED8C", 0, 1747130469, null, 1747130469, null, "{ }", "2025-05-12T00:00:00", "15 16 41 48 60 21", "3" ]
+, [ "row-8cqn.k43x-82qb", "00000000-0000-0000-E6D0-6D3D7C11509E", 0, 1747303267, null, 1747303267, null, "{ }", "2025-05-14T00:00:00", "04 10 24 29 53 04", "3" ]
+, [ "row-bxjg_szrf-jsve", "00000000-0000-0000-5139-DC5AAC43BC76", 0, 1747562465, null, 1747562465, null, "{ }", "2025-05-17T00:00:00", "07 34 40 42 52 15", "2" ]
+, [ "row-9bqb~88n4_bmr5", "00000000-0000-0000-401B-B0BDBD62A6D0", 0, 1747735268, null, 1747735268, null, "{ }", "2025-05-19T00:00:00", "13 14 37 50 60 11", "2" ]
  ]
 }
