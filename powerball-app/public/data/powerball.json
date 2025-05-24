@@ -12,7 +12,7 @@
       "description" : "Go to http://on.ny.gov/1GpWiHD on the New York Lottery website for past Powerball results and payouts.",
       "diciBackend" : false,
       "displayType" : "table",
-      "downloadCount" : 35135886,
+      "downloadCount" : 35137024,
       "hideFromCatalog" : false,
       "hideFromDataJson" : false,
       "locked" : false,
@@ -24,12 +24,12 @@
       "publicationDate" : 1619710771,
       "publicationGroup" : 708088,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1747735268,
+      "rowsUpdatedAt" : 1747908060,
       "rowsUpdatedBy" : "xzik-pf59",
       "tableId" : 18267526,
       "totalTimesRated" : 0,
-      "viewCount" : 480284,
-      "viewLastModified" : 1747735268,
+      "viewCount" : 482134,
+      "viewLastModified" : 1747908059,
       "viewType" : "tabular",
       "approvals" : [ {
         "reviewedAt" : 1563703321,
@@ -140,8 +140,8 @@
         "tableColumnId" : 8275908,
         "width" : 141,
         "cachedContents" : {
-          "non_null" : "1786",
-          "largest" : "2025-05-19T00:00:00.000",
+          "non_null" : "1787",
+          "largest" : "2025-05-21T00:00:00.000",
           "null" : "0",
           "top" : [ {
             "item" : "2021-12-15T00:00:00.000",
@@ -205,8 +205,8 @@
             "count" : "1"
           } ],
           "smallest" : "2010-02-03T00:00:00.000",
-          "count" : "1786",
-          "cardinality" : "1786"
+          "count" : "1787",
+          "cardinality" : "1787"
         },
         "format" : {
           "view" : "date",
@@ -223,7 +223,7 @@
         "tableColumnId" : 8275909,
         "width" : 186,
         "cachedContents" : {
-          "non_null" : "1786",
+          "non_null" : "1787",
           "largest" : "52 58 59 64 66 09",
           "null" : "0",
           "top" : [ {
@@ -288,8 +288,8 @@
             "count" : "1"
           } ],
           "smallest" : "01 02 03 07 39 25",
-          "count" : "1786",
-          "cardinality" : "1786"
+          "count" : "1787",
+          "cardinality" : "1787"
         },
         "format" : {
           "align" : "center"
@@ -305,12 +305,12 @@
         "tableColumnId" : 8275910,
         "width" : 136,
         "cachedContents" : {
-          "non_null" : "1576",
+          "non_null" : "1577",
           "largest" : "10",
           "null" : "210",
           "top" : [ {
             "item" : "2",
-            "count" : "818"
+            "count" : "819"
           }, {
             "item" : "3",
             "count" : "488"
@@ -325,7 +325,7 @@
             "count" : "17"
           } ],
           "smallest" : "2",
-          "count" : "1786",
+          "count" : "1787",
           "cardinality" : "5"
         },
         "format" : {
@@ -2212,5 +2212,6 @@
 , [ "row-8cqn.k43x-82qb", "00000000-0000-0000-E6D0-6D3D7C11509E", 0, 1747303267, null, 1747303267, null, "{ }", "2025-05-14T00:00:00", "04 10 24 29 53 04", "3" ]
 , [ "row-bxjg_szrf-jsve", "00000000-0000-0000-5139-DC5AAC43BC76", 0, 1747562465, null, 1747562465, null, "{ }", "2025-05-17T00:00:00", "07 34 40 42 52 15", "2" ]
 , [ "row-9bqb~88n4_bmr5", "00000000-0000-0000-401B-B0BDBD62A6D0", 0, 1747735268, null, 1747735268, null, "{ }", "2025-05-19T00:00:00", "13 14 37 50 60 11", "2" ]
+, [ "row-htyk_7rii_vu6i", "00000000-0000-0000-95AA-5C0A4E04AC97", 0, 1747908060, null, 1747908060, null, "{ }", "2025-05-21T00:00:00", "09 29 31 34 43 02", "2" ]
  ]
 }
