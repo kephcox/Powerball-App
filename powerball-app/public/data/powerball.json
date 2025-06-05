@@ -12,7 +12,7 @@
       "description" : "Go to http://on.ny.gov/1GpWiHD on the New York Lottery website for past Powerball results and payouts.",
       "diciBackend" : false,
       "displayType" : "table",
-      "downloadCount" : 35137024,
+      "downloadCount" : 35142336,
       "hideFromCatalog" : false,
       "hideFromDataJson" : false,
       "locked" : false,
@@ -24,12 +24,12 @@
       "publicationDate" : 1619710771,
       "publicationGroup" : 708088,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1747908060,
+      "rowsUpdatedAt" : 1748944861,
       "rowsUpdatedBy" : "xzik-pf59",
       "tableId" : 18267526,
       "totalTimesRated" : 0,
-      "viewCount" : 482134,
-      "viewLastModified" : 1747908059,
+      "viewCount" : 484217,
+      "viewLastModified" : 1748944859,
       "viewType" : "tabular",
       "approvals" : [ {
         "reviewedAt" : 1563703321,
@@ -140,8 +140,8 @@
         "tableColumnId" : 8275908,
         "width" : 141,
         "cachedContents" : {
-          "non_null" : "1787",
-          "largest" : "2025-05-21T00:00:00.000",
+          "non_null" : "1792",
+          "largest" : "2025-06-02T00:00:00.000",
           "null" : "0",
           "top" : [ {
             "item" : "2021-12-15T00:00:00.000",
@@ -205,8 +205,8 @@
             "count" : "1"
           } ],
           "smallest" : "2010-02-03T00:00:00.000",
-          "count" : "1787",
-          "cardinality" : "1787"
+          "count" : "1792",
+          "cardinality" : "1792"
         },
         "format" : {
           "view" : "date",
@@ -223,7 +223,7 @@
         "tableColumnId" : 8275909,
         "width" : 186,
         "cachedContents" : {
-          "non_null" : "1787",
+          "non_null" : "1792",
           "largest" : "52 58 59 64 66 09",
           "null" : "0",
           "top" : [ {
@@ -288,8 +288,8 @@
             "count" : "1"
           } ],
           "smallest" : "01 02 03 07 39 25",
-          "count" : "1787",
-          "cardinality" : "1787"
+          "count" : "1792",
+          "cardinality" : "1792"
         },
         "format" : {
           "align" : "center"
@@ -305,15 +305,15 @@
         "tableColumnId" : 8275910,
         "width" : 136,
         "cachedContents" : {
-          "non_null" : "1577",
+          "non_null" : "1582",
           "largest" : "10",
           "null" : "210",
           "top" : [ {
             "item" : "2",
-            "count" : "819"
+            "count" : "822"
           }, {
             "item" : "3",
-            "count" : "488"
+            "count" : "490"
           }, {
             "item" : "4",
             "count" : "147"
@@ -325,7 +325,7 @@
             "count" : "17"
           } ],
           "smallest" : "2",
-          "count" : "1787",
+          "count" : "1792",
           "cardinality" : "5"
         },
         "format" : {
@@ -2213,5 +2213,10 @@
 , [ "row-bxjg_szrf-jsve", "00000000-0000-0000-5139-DC5AAC43BC76", 0, 1747562465, null, 1747562465, null, "{ }", "2025-05-17T00:00:00", "07 34 40 42 52 15", "2" ]
 , [ "row-9bqb~88n4_bmr5", "00000000-0000-0000-401B-B0BDBD62A6D0", 0, 1747735268, null, 1747735268, null, "{ }", "2025-05-19T00:00:00", "13 14 37 50 60 11", "2" ]
 , [ "row-htyk_7rii_vu6i", "00000000-0000-0000-95AA-5C0A4E04AC97", 0, 1747908060, null, 1747908060, null, "{ }", "2025-05-21T00:00:00", "09 29 31 34 43 02", "2" ]
+, [ "row-9zt8.c35q.9yqk", "00000000-0000-0000-2C0C-EDF4BF62E0B8", 0, 1748167287, null, 1748167287, null, "{ }", "2025-05-24T00:00:00", "12 18 28 48 52 05", "3" ]
+, [ "row-ebgm.h8rb~3ejx", "00000000-0000-0000-553A-7127040EA6F2", 0, 1748340068, null, 1748340068, null, "{ }", "2025-05-26T00:00:00", "13 47 52 64 67 25", "2" ]
+, [ "row-hdax~bcgq_rg2e", "00000000-0000-0000-A14B-BF6E0E009795", 0, 1748512901, null, 1748512901, null, "{ }", "2025-05-28T00:00:00", "23 27 32 35 59 11", "2" ]
+, [ "row-z3zp_cpp5_pasm", "00000000-0000-0000-5C78-6197594C48E8", 0, 1748772082, null, 1748772082, null, "{ }", "2025-05-31T00:00:00", "01 29 37 56 68 13", "2" ]
+, [ "row-zw92-eicp~kzz2", "00000000-0000-0000-025C-462517D9E9A3", 0, 1748944861, null, 1748944861, null, "{ }", "2025-06-02T00:00:00", "01 07 44 57 61 21", "3" ]
  ]
 }
