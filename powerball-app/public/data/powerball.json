@@ -12,7 +12,7 @@
       "description": "Go to http://on.ny.gov/1GpWiHD on the New York Lottery website for past Powerball results and payouts.",
       "diciBackend": false,
       "displayType": "table",
-      "downloadCount": 35408551,
+      "downloadCount": 35415592,
       "hideFromCatalog": false,
       "hideFromDataJson": false,
       "locked": false,
@@ -24,12 +24,12 @@
       "publicationDate": 1619710771,
       "publicationGroup": 708088,
       "publicationStage": "published",
-      "rowsUpdatedAt": 1764837211,
+      "rowsUpdatedAt": 1765912146,
       "rowsUpdatedBy": "xzik-pf59",
       "tableId": 18267526,
       "totalTimesRated": 0,
-      "viewCount": 527070,
-      "viewLastModified": 1764866310,
+      "viewCount": 527782,
+      "viewLastModified": 1765912145,
       "viewType": "tabular",
       "approvals": [
         {
@@ -167,8 +167,8 @@
           "tableColumnId": 8275908,
           "width": 141,
           "cachedContents": {
-            "non_null": "1871",
-            "largest": "2025-12-03T00:00:00.000",
+            "non_null": "1876",
+            "largest": "2025-12-15T00:00:00.000",
             "null": "0",
             "top": [
               {
@@ -253,8 +253,8 @@
               }
             ],
             "smallest": "2010-02-03T00:00:00.000",
-            "count": "1871",
-            "cardinality": "1871"
+            "count": "1876",
+            "cardinality": "1876"
           },
           "format": {
             "view": "date",
@@ -272,7 +272,7 @@
           "tableColumnId": 8275909,
           "width": 186,
           "cachedContents": {
-            "non_null": "1871",
+            "non_null": "1876",
             "largest": "52 58 59 64 66 09",
             "null": "0",
             "top": [
@@ -358,8 +358,8 @@
               }
             ],
             "smallest": "01 02 03 07 39 25",
-            "count": "1871",
-            "cardinality": "1871"
+            "count": "1876",
+            "cardinality": "1876"
           },
           "format": {
             "align": "center"
@@ -376,21 +376,21 @@
           "tableColumnId": 8275910,
           "width": 136,
           "cachedContents": {
-            "non_null": "1661",
+            "non_null": "1666",
             "largest": "10",
             "null": "210",
             "top": [
               {
                 "item": "2",
-                "count": "867"
+                "count": "870"
               },
               {
                 "item": "3",
-                "count": "513"
+                "count": "514"
               },
               {
                 "item": "4",
-                "count": "152"
+                "count": "153"
               },
               {
                 "item": "5",
@@ -402,8 +402,8 @@
               }
             ],
             "smallest": "2",
-            "count": "1871",
-            "cardinality": "1871"
+            "count": "1876",
+            "cardinality": "1876"
           },
           "format": {
             "precisionStyle": "standard",
@@ -434,24 +434,24 @@
         "attachments": [
           {
             "filename": "NYSGAM_Powerball_Overview.pdf",
+            "assetId": "8462fb9d-a7c8-4e07-9f53-db81e06433c7",
             "name": "NYSGAM_Powerball_Overview.pdf"
           },
           {
-            "filename": "NYSGAM_Powerball_Winning_Numbers__DataDictionary.pdf",
+            "filename": "NYSGAM_Powerball_DataDictionary.pdf",
+            "assetId": "d3cb097f-b250-4253-a815-b9d45e34b25c",
             "name": "NYSGAM_Powerball_DataDictionary.pdf"
           }
         ],
         "custom_fields": {
           "Dataset Summary": {
-            "Posting Frequency": "Twice weekly",
+            "Posting Frequency": "Three times weekly",
             "Organization": "The New York Lottery",
             "Contact Information": "Info@gaming.ny.gov",
             "Time Period": "02/03/2010 to present",
             "Coverage": "Statewide",
             "Granularity": "Draw Date",
-            "Units": "Drawings Unit",
-            "Dataset Owner": "Lottery",
-            "Data Frequency": "Twice weekly"
+            "Dataset Owner": "Lottery"
           },
           "Additional Resources": {
             "See Also ": "http://www.powerball.com/pb_home.asp",
@@ -532,12 +532,25 @@
   },
   "data": [
     [
-      "row-ncdp_20251215",
-      "468BDAC2-E929-56B9-AC22-9470A1B0B909",
+      "row-dr5v.zkvx.56fg",
+      "00000000-0000-0000-D40C-B083124BC9FD",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
+      null,
+      "{ }",
+      "2025-12-15T00:00:00",
+      "23 35 59 63 68 02",
+      "4"
+    ],
+    [
+      "row-ncdp_20251215.9f17",
+      "00000000-0000-0000-2B85-CA22A64CF229",
+      0,
+      1765912146,
+      null,
+      1765912146,
       null,
       "{ }",
       "2025-12-15T00:00:00",
@@ -545,12 +558,25 @@
       null
     ],
     [
-      "row-ncdp_20251213",
-      "B124B2BE-40CD-5623-A243-5E681F56676E",
+      "row-9ne9_pd8q.4fgg",
+      "00000000-0000-0000-B8B2-B12E7F3F3FEE",
       0,
-      1766018965,
+      1765912105,
       null,
-      1766018965,
+      1765912105,
+      null,
+      "{ }",
+      "2025-12-13T00:00:00",
+      "01 28 31 57 58 16",
+      "2"
+    ],
+    [
+      "row-ncdp_20251213.5b21",
+      "00000000-0000-0000-75FC-0E107F90800F",
+      0,
+      1765912146,
+      null,
+      1765912146,
       null,
       "{ }",
       "2025-12-13T00:00:00",
@@ -558,12 +584,25 @@
       null
     ],
     [
-      "row-ncdp_20251210",
-      "BC8AAE33-1915-52D1-8F7A-5DECD0BC73C1",
+      "row-u8wz_agkj_3vi8",
+      "00000000-0000-0000-2623-677C19C22398",
       0,
-      1766018965,
+      1765912048,
       null,
-      1766018965,
+      1765912048,
+      null,
+      "{ }",
+      "2025-12-10T00:00:00",
+      "10 16 29 33 69 22",
+      "3"
+    ],
+    [
+      "row-ncdp_20251210.9483",
+      "00000000-0000-0000-2533-2F8F4F778983",
+      0,
+      1765912146,
+      null,
+      1765912146,
       null,
       "{ }",
       "2025-12-10T00:00:00",
@@ -571,12 +610,25 @@
       null
     ],
     [
-      "row-ncdp_20251208",
-      "9060380C-07ED-55DE-822D-B2CB49A4784F",
+      "row-wer5-5psy-sg9b",
+      "00000000-0000-0000-A691-B1C5F72D3E07",
       0,
-      1766018965,
+      1765912002,
       null,
-      1766018965,
+      1765912002,
+      null,
+      "{ }",
+      "2025-12-08T00:00:00",
+      "08 32 52 56 64 23",
+      "2"
+    ],
+    [
+      "row-ncdp_20251208.ddc9",
+      "00000000-0000-0000-33A6-D1FD2BFC5D8A",
+      0,
+      1765912146,
+      null,
+      1765912146,
       null,
       "{ }",
       "2025-12-08T00:00:00",
@@ -584,12 +636,25 @@
       null
     ],
     [
-      "row-ncdp_20251206",
-      "A41F0111-1C5B-5C67-8D10-81641C303715",
+      "row-g22p_nfmk.7cnm",
+      "00000000-0000-0000-3C4E-07901433AEC3",
       0,
-      1766018965,
+      1765911940,
       null,
-      1766018965,
+      1765911940,
+      null,
+      "{ }",
+      "2025-12-06T00:00:00",
+      "13 14 26 28 44 07",
+      "2"
+    ],
+    [
+      "row-ncdp_20251206.9149",
+      "00000000-0000-0000-74E8-3174D2A70DBD",
+      0,
+      1765912146,
+      null,
+      1765912146,
       null,
       "{ }",
       "2025-12-06T00:00:00",
@@ -610,12 +675,12 @@
       "3"
     ],
     [
-      "row-ncdp_20251203",
-      "779B7480-9AEB-526B-AC7A-DD9D81BBD703",
+      "row-ncdp_20251203.3268",
+      "00000000-0000-0000-AE24-504019BB48E8",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-12-03T00:00:00",
@@ -636,12 +701,12 @@
       "3"
     ],
     [
-      "row-ncdp_20251201",
-      "B2834C76-BC03-5336-BC52-2CF207685188",
+      "row-ncdp_20251201.6ae4",
+      "00000000-0000-0000-E496-278436793705",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-12-01T00:00:00",
@@ -662,12 +727,12 @@
       "2"
     ],
     [
-      "row-ncdp_20251129",
-      "7E043547-9A01-51E5-83D1-0904C46343BC",
+      "row-ncdp_20251129.458a",
+      "00000000-0000-0000-FDF7-32E987F2B0BE",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-29T00:00:00",
@@ -688,12 +753,12 @@
       "3"
     ],
     [
-      "row-ncdp_20251126",
-      "BEBAE729-4F4A-5CDB-BCA8-025A4ABA3315",
+      "row-ncdp_20251126.8a73",
+      "00000000-0000-0000-D095-D2DF792D4941",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-26T00:00:00",
@@ -714,12 +779,12 @@
       "2"
     ],
     [
-      "row-ncdp_20251124",
-      "D5FB3956-5B10-50E2-B081-4256E1730D19",
+      "row-ncdp_20251124.0df0",
+      "00000000-0000-0000-2202-1765B53F9DF6",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-24T00:00:00",
@@ -740,12 +805,12 @@
       "2"
     ],
     [
-      "row-ncdp_20251122",
-      "991EC7B8-1594-5980-B4EF-0770263E858A",
+      "row-ncdp_20251122.1ab9",
+      "00000000-0000-0000-571C-D6840FCDDF0F",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-22T00:00:00",
@@ -766,12 +831,12 @@
       "2"
     ],
     [
-      "row-ncdp_20251119",
-      "1C27FE0B-79E2-5B10-832B-22E9FBAB6A48",
+      "row-ncdp_20251119.eab2",
+      "00000000-0000-0000-4CEE-F0F08F8683C8",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-19T00:00:00",
@@ -792,12 +857,12 @@
       "5"
     ],
     [
-      "row-ncdp_20251117",
-      "00F9D61D-8026-57C3-8E3E-2FF4E62B3ACA",
+      "row-ncdp_20251117.520c",
+      "00000000-0000-0000-1F7C-3DD740197D45",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-17T00:00:00",
@@ -818,12 +883,12 @@
       "4"
     ],
     [
-      "row-ncdp_20251115",
-      "79FB343E-232F-5546-ACE0-1D9C743DF8F3",
+      "row-ncdp_20251115.e7fa",
+      "00000000-0000-0000-2351-53265427A074",
       0,
-      1766018965,
+      1765912146,
       null,
-      1766018965,
+      1765912146,
       null,
       "{ }",
       "2025-11-15T00:00:00",
